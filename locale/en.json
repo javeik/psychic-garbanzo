@@ -1,0 +1,14 @@
+{
+    "title": {
+        "translation": "Lokalise test page - awesome title",
+        "notes": ""
+    },
+    "description": {
+        "translation": "This is just a template thingy.",
+        "notes": ""
+    },
+    "newKey": {
+        "translation": "this is a new key",
+        "notes": ""
+    }
+}
