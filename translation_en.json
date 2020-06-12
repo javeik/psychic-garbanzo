@@ -1,4 +1,5 @@
 {
     "title": "Lokalise test page - awesome title",
-    "description": "This is just a template thingy."
+    "description": "This is just a template thingy.",
+    "newKey": "this is a new key"
 }

@@ -1,4 +1,5 @@
 {
     "title": "Lokalise-testisivu - hieno otsikko!",
-    "description": "Tämä on vain templaatti"
+    "description": "Tämä on vain templaatti",
+    "newKey": "tämä on uusi avain!"
 }
