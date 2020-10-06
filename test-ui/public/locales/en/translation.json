@@ -1,5 +1,6 @@
 {
     "Welcome": "Welcome in English",
     "Description": "This is a Description",
-    "Ingress": "This is an ingress"
+    "Ingress": "This is an ingress",
+    "Error": "This is an Error"
 }
