@@ -21,7 +21,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {t("WelcomeToReact")}
+          {t("Welcome")}
         </a>
       </header>
     </div>

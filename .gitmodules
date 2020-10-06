@@ -1,3 +1,0 @@
-[submodule "test-ui/lokalise-tests"]
-	path = test-ui/lokalise-tests
-	url = https://github.com/javeik/lokalise-tests
